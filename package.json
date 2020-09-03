@@ -1,0 +1,13 @@
+{
+  "name": "kiss-list",
+  "version": "1.0.0",
+  "description": "This is the story of one artist's first kiss with everyone she ever kissed.",
+  "author": "John West",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.15.0",
+    "flubber": "^0.4.2",
+    "markdown-it": "^10.0.0",
+    "svg-path-parser": "^1.1.0"
+  }
+}
