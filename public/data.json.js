@@ -1,9 +1,9 @@
 window.data = {
   field_nice_names: {
     age_comparison: "their age compared to mine",
-    city_slug: "the city in which we kissed",
+    city_slug: "the place in which we kissed",
     date: "the date we kissed",
-    did_talk_about_kiss: "if we talked aabout our kiss afterward",
+    did_talk_about_kiss: "if we talked about our kiss afterward",
     gender: "their gender",
     how_far_it_went: "how far it went",
     journal_entry: "the note in my journal",
