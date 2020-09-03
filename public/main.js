@@ -438,7 +438,6 @@ const renderers = [
 	renderPlay.bind(this, "date", "time_of_day"),
 	renderLast,
 	renderLast,
-	renderLast,
 ].slice(0, scrollers.length);
 const statuses = renderers.map((r, i) => (i === 0 ? true : false));
 scroller.addEventListener("scroll", () => {
